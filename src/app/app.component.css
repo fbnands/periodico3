@@ -1,0 +1,21 @@
+/* Aqui se dan estilos a los elementos html, body y main, para que ocupen todo el espacio disponible en la pantalla. */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+
+
+
+main{
+  display: flex;
+  
+}
+
+
+div {
+  width: 100%;
+ 
+}
